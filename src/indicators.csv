@@ -1,0 +1,346 @@
+,index,Indicator Name,Indicator Code
+0,0,% of females ages 15-49 having comprehensive correct knowledge about HIV (2 prevent ways and reject 3 misconceptions),SH.HIV.KNOW.FE.ZS
+1,1,% of males ages 15-49 having comprehensive correct knowledge about HIV (2 prevent ways and reject 3 misconceptions),SH.HIV.KNOW.MA.ZS
+2,64,AIDS estimated deaths (UNAIDS estimates),SH.DYN.AIDS.DH
+3,67,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS
+4,2,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT
+5,3,Adults (ages 15+) and children (0-14 years) living with HIV,SH.HIV.TOTL
+6,4,Adults (ages 15+) and children (ages 0-14) newly infected with HIV,SH.HIV.INCD.TL
+7,5,Adults (ages 15+) living with HIV,SH.DYN.AIDS
+8,6,Adults (ages 15+) newly infected with HIV,SH.HIV.INCD
+9,7,"Age at first marriage, female",SP.DYN.SMAM.FE
+10,8,"Age at first marriage, male",SP.DYN.SMAM.MA
+11,9,Age dependency ratio (% of working-age population),SP.POP.DPND
+12,10,"Age dependency ratio, old",SP.POP.DPND.OL
+13,11,"Age dependency ratio, young",SP.POP.DPND.YG
+14,12,"Age population, age 0, female, interpolated",SP.POP.AG00.FE.IN
+15,13,"Age population, age 0, male, interpolated",SP.POP.AG00.MA.IN
+16,14,"Age population, age 01, female, interpolated",SP.POP.AG01.FE.IN
+17,15,"Age population, age 01, male, interpolated",SP.POP.AG01.MA.IN
+18,16,"Age population, age 02, female, interpolated",SP.POP.AG02.FE.IN
+19,17,"Age population, age 02, male, interpolated",SP.POP.AG02.MA.IN
+20,18,"Age population, age 03, female, interpolated",SP.POP.AG03.FE.IN
+21,19,"Age population, age 03, male, interpolated",SP.POP.AG03.MA.IN
+22,20,"Age population, age 04, female, interpolated",SP.POP.AG04.FE.IN
+23,21,"Age population, age 04, male, interpolated",SP.POP.AG04.MA.IN
+24,22,"Age population, age 05, female, interpolated",SP.POP.AG05.FE.IN
+25,23,"Age population, age 05, male, interpolated",SP.POP.AG05.MA.IN
+26,24,"Age population, age 06, female, interpolated",SP.POP.AG06.FE.IN
+27,25,"Age population, age 06, male, interpolated",SP.POP.AG06.MA.IN
+28,26,"Age population, age 07, female, interpolated",SP.POP.AG07.FE.IN
+29,27,"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN
+30,28,"Age population, age 08, female, interpolated",SP.POP.AG08.FE.IN
+31,29,"Age population, age 08, male, interpolated",SP.POP.AG08.MA.IN
+32,30,"Age population, age 09, female, interpolated",SP.POP.AG09.FE.IN
+33,31,"Age population, age 09, male, interpolated",SP.POP.AG09.MA.IN
+34,32,"Age population, age 10, female, interpolated",SP.POP.AG10.FE.IN
+35,33,"Age population, age 10, male, interpolated",SP.POP.AG10.MA.IN
+36,34,"Age population, age 11, female, interpolated",SP.POP.AG11.FE.IN
+37,35,"Age population, age 11, male, interpolated",SP.POP.AG11.MA.IN
+38,36,"Age population, age 12, female, interpolated",SP.POP.AG12.FE.IN
+39,37,"Age population, age 12, male, interpolated",SP.POP.AG12.MA.IN
+40,38,"Age population, age 13, female, interpolated",SP.POP.AG13.FE.IN
+41,39,"Age population, age 13, male, interpolated",SP.POP.AG13.MA.IN
+42,40,"Age population, age 14, female, interpolated",SP.POP.AG14.FE.IN
+43,41,"Age population, age 14, male, interpolated",SP.POP.AG14.MA.IN
+44,42,"Age population, age 15, female, interpolated",SP.POP.AG15.FE.IN
+45,43,"Age population, age 15, male, interpolated",SP.POP.AG15.MA.IN
+46,44,"Age population, age 16, female, interpolated",SP.POP.AG16.FE.IN
+47,45,"Age population, age 16, male, interpolated",SP.POP.AG16.MA.IN
+48,46,"Age population, age 17, female, interpolated",SP.POP.AG17.FE.IN
+49,47,"Age population, age 17, male, interpolated",SP.POP.AG17.MA.IN
+50,48,"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN
+51,49,"Age population, age 18, male, interpolated",SP.POP.AG18.MA.IN
+52,50,"Age population, age 19, female, interpolated",SP.POP.AG19.FE.IN
+53,51,"Age population, age 19, male, interpolated",SP.POP.AG19.MA.IN
+54,52,"Age population, age 20, female, interpolated",SP.POP.AG20.FE.IN
+55,53,"Age population, age 20, male, interpolated",SP.POP.AG20.MA.IN
+56,54,"Age population, age 21, female, interpolated",SP.POP.AG21.FE.IN
+57,55,"Age population, age 21, male, interpolated",SP.POP.AG21.MA.IN
+58,56,"Age population, age 22, female, interpolated",SP.POP.AG22.FE.IN
+59,57,"Age population, age 22, male, interpolated",SP.POP.AG22.MA.IN
+60,58,"Age population, age 23, female, interpolated",SP.POP.AG23.FE.IN
+61,59,"Age population, age 23, male, interpolated",SP.POP.AG23.MA.IN
+62,60,"Age population, age 24, female, interpolated",SP.POP.AG24.FE.IN
+63,61,"Age population, age 24, male, interpolated",SP.POP.AG24.MA.IN
+64,62,"Age population, age 25, female, interpolated",SP.POP.AG25.FE.IN
+65,63,"Age population, age 25, male, interpolated",SP.POP.AG25.MA.IN
+66,65,Antiretroviral therapy coverage (% of people living with HIV),SH.HIV.ARTC.ZS
+67,66,Antiretroviral therapy coverage for PMTCT (% of pregnant women living with HIV),SH.HIV.PMTC.ZS
+68,68,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN
+69,69,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS
+70,70,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",SH.DTH.COMM.ZS
+71,71,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS
+72,72,"Cause of death, by non-communicable diseases (% of total)",SH.DTH.NCOM.ZS
+73,73,Children (0-14) living with HIV,SH.HIV.0014
+74,74,Children (ages 0-14) newly infected with HIV,SH.HIV.INCD.14
+75,75,Children orphaned by HIV/AIDS,SH.HIV.ORPH
+76,76,Children with fever receiving antimalarial drugs (% of children under age 5 with fever),SH.MLR.TRET.ZS
+77,77,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3
+78,78,Completeness of birth registration (%),SP.REG.BRTH.ZS
+79,79,"Completeness of birth registration, rural (%)",SP.REG.BRTH.RU.ZS
+80,80,"Completeness of birth registration, urban (%)",SP.REG.BRTH.UR.ZS
+81,81,Completeness of death registration with cause-of-death information (%),SP.REG.DTHS.ZS
+82,82,"Comprehensive correct knowledge of HIV/AIDS, ages 15-24, female (2 prevent ways and reject 3 misconceptions)",SH.HIV.1524.KW.FE.ZS
+83,83,"Comprehensive correct knowledge of HIV/AIDS, ages 15-24, male (2 prevent ways and reject 3 misconceptions)",SH.HIV.1524.KW.MA.ZS
+84,84,"Condom use with non regular partner, % adults(15-49), female",SH.CON.AIDS.FE.ZS
+85,85,"Condom use with non regular partner, % adults(15-49), male",SH.CON.AIDS.MA.ZS
+86,86,"Condom use, population ages 15-24, female (% of females ages 15-24)",SH.CON.1524.FE.ZS
+87,87,"Condom use, population ages 15-24, male (% of males ages 15-24)",SH.CON.1524.MA.ZS
+88,88,Consumption of iodized salt (% of households),SN.ITK.SALT.ZS
+89,89,"Contraceptive prevalence, any methods (% of women ages 15-49)",SP.DYN.CONU.ZS
+90,90,"Contraceptive prevalence, modern methods (% of women ages 15-49)",SP.DYN.CONM.ZS
+91,91,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN
+92,92,Demand for family planning satisfied by any methods (% of married women with demand for family planning),SH.FPL.SATI.ZS
+93,93,Demand for family planning satisfied by modern methods (% of married women with demand for family planning),SH.FPL.SATM.ZS
+94,94,Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS
+95,95,Diarrhea treatment (% of children under 5 receiving oral rehydration and continued feeding),SH.STA.ORCF.ZS
+96,96,Diarrhea treatment (% of children under 5 who received ORS packet),SH.STA.ORTH
+97,97,Exclusive breastfeeding (% of children under 6 months),SH.STA.BFED.ZS
+98,98,External resources for health (% of total expenditure on health),SH.XPD.EXTR.ZS
+99,99,Female headed households (% of households with a female head),SP.HOU.FEMA.ZS
+100,100,Female population 00-04,SP.POP.0004.FE
+101,101,Female population 05-09,SP.POP.0509.FE
+102,102,Female population 10-14,SP.POP.1014.FE
+103,103,Female population 15-19,SP.POP.1519.FE
+104,104,Female population 20-24,SP.POP.2024.FE
+105,105,Female population 25-29,SP.POP.2529.FE
+106,106,Female population 30-34,SP.POP.3034.FE
+107,107,Female population 35-39,SP.POP.3539.FE
+108,108,Female population 40-44,SP.POP.4044.FE
+109,109,Female population 45-49,SP.POP.4549.FE
+110,110,Female population 50-54,SP.POP.5054.FE
+111,111,Female population 55-59,SP.POP.5559.FE
+112,112,Female population 60-64,SP.POP.6064.FE
+113,113,Female population 65-69,SP.POP.6569.FE
+114,114,Female population 70-74,SP.POP.7074.FE
+115,115,Female population 75-79,SP.POP.7579.FE
+116,116,Female population 80+,SP.POP.80UP.FE
+117,117,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN
+118,118,"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD
+119,119,Health expenditure per capita (current US$),SH.XPD.PCAP
+120,120,"Health expenditure per capita, PPP",SH.XPD.PCAP.PP.KD
+121,121,"Health expenditure, private (% of GDP)",SH.XPD.PRIV.ZS
+122,122,"Health expenditure, private (% of total health expenditure)",SH.XPD.PRIV
+123,123,"Health expenditure, public (% of GDP)",SH.XPD.PUBL.ZS
+124,124,"Health expenditure, public (% of government expenditure)",SH.XPD.PUBL.GX.ZS
+125,125,"Health expenditure, public (% of total health expenditure)",SH.XPD.PUBL
+126,126,"Health expenditure, total (% of GDP)",SH.XPD.TOTL.ZS
+127,127,"Health expenditure, total (current US$)",SH.XPD.TOTL.CD
+128,128,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS
+129,129,"Immunization, BCG (% of one-year-old children)",SH.IMM.IBCG
+130,130,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT
+131,131,"Immunization, HepB3 (% of one-year-old children)",SH.IMM.HEPB
+132,132,"Immunization, Hib3 (% of children ages 12-23 months)",SH.IMM.HIB3
+133,134,"Immunization, Pol3 (% of one-year-old children)",SH.IMM.POL3
+134,133,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS
+135,135,Improved sanitation facilities (% of population with access),SH.STA.ACSN
+136,136,"Improved sanitation facilities, rural (% of rural population with access)",SH.STA.ACSN.RU
+137,137,"Improved sanitation facilities, urban (% of urban population with access)",SH.STA.ACSN.UR
+138,138,Improved water source (% of population with access),SH.H2O.SAFE.ZS
+139,139,"Improved water source, rural (% of rural population with access)",SH.H2O.SAFE.RU.ZS
+140,140,"Improved water source, urban (% of urban population with access)",SH.H2O.SAFE.UR.ZS
+141,141,Incidence of HIV (% of uninfected population ages 15-49),SH.HIV.INCD.ZS
+142,142,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD
+143,143,"Infant and young child feeding practices, all 3 IYCF (% children ages 6-23 months)",SH.STA.IYCF.ZS
+144,144,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS
+145,145,"Labor force, total",SL.TLF.TOTL.IN
+146,146,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN
+147,147,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN
+148,148,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN
+149,149,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS
+150,150,Lifetime risk of maternal death (1 in: rate varies by country),SH.MMR.RISK
+151,151,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS
+152,152,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS
+153,153,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS
+154,154,"Literacy rate, youth male (% of males ages 15-24)",SE.ADT.1524.LT.MA.ZS
+155,155,"Literacy rate, youth total (% of people ages 15-24)",SE.ADT.1524.LT.ZS
+156,156,Low-birthweight babies (% of births),SH.STA.BRTW.ZS
+157,157,Malaria cases reported,SH.STA.MALR
+158,158,Male population 00-04,SP.POP.0004.MA
+159,159,Male population 05-09,SP.POP.0509.MA
+160,160,Male population 10-14,SP.POP.1014.MA
+161,161,Male population 15-19,SP.POP.1519.MA
+162,162,Male population 20-24,SP.POP.2024.MA
+163,163,Male population 25-29,SP.POP.2529.MA
+164,164,Male population 30-34,SP.POP.3034.MA
+165,165,Male population 35-39,SP.POP.3539.MA
+166,166,Male population 40-44,SP.POP.4044.MA
+167,167,Male population 45-49,SP.POP.4549.MA
+168,168,Male population 50-54,SP.POP.5054.MA
+169,169,Male population 55-59,SP.POP.5559.MA
+170,170,Male population 60-64,SP.POP.6064.MA
+171,171,Male population 65-69,SP.POP.6569.MA
+172,172,Male population 70-74,SP.POP.7074.MA
+173,173,Male population 75-79,SP.POP.7579.MA
+174,174,Male population 80+,SP.POP.80UP.MA
+175,175,"Malnutrition prevalence, height for age (% of children under 5)",SH.STA.STNT.ZS
+176,176,"Malnutrition prevalence, height for age, female (% of children under 5)",SH.STA.STNT.FE.ZS
+177,177,"Malnutrition prevalence, height for age, male (% of children under 5)",SH.STA.STNT.MA.ZS
+178,178,"Malnutrition prevalence, weight for age (% of children under 5)",SH.STA.MALN.ZS
+179,179,"Malnutrition prevalence, weight for age, female (% of children under 5)",SH.STA.MALN.FE.ZS
+180,180,"Malnutrition prevalence, weight for age, male (% of children under 5)",SH.STA.MALN.MA.ZS
+181,181,Maternal leave benefits (% of wages paid in covered period),SH.MMR.WAGE.ZS
+182,182,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT
+183,183,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE
+184,184,"Mortality caused by road traffic injury (per 100,000 people)",SH.STA.TRAF.P5
+185,185,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE
+186,186,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA
+187,187,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN
+188,188,"Mortality rate, infant, female (per 1,000 live births)",SP.DYN.IMRT.FE.IN
+189,189,"Mortality rate, infant, male (per 1,000 live births)",SP.DYN.IMRT.MA.IN
+190,190,"Mortality rate, neonatal (per 1,000 live births)",SH.DYN.NMRT
+191,191,"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT
+192,192,"Mortality rate, under-5, female (per 1,000)",SH.DYN.MORT.FE
+193,193,"Mortality rate, under-5, male (per 1,000)",SH.DYN.MORT.MA
+194,194,Net migration,SM.POP.NETM
+195,195,Newborns protected against tetanus (%),SH.VAC.TTNS.ZS
+196,196,Number of infant deaths,SH.DTH.IMRT
+197,197,Number of maternal deaths,SH.MMR.DTHS
+198,198,Number of neonatal deaths,SH.DTH.NMRT
+199,199,Number of people who are undernourished,SN.ITK.DEFC
+200,200,"Number of surgical procedures (per 100,000 population)",SH.SGR.PROC.P5
+201,201,Number of under-five deaths,SH.DTH.MORT
+202,202,Number of weeks of maternity leave,SH.MMR.LEVE
+203,203,"Nurses and midwives (per 1,000 people)",SH.MED.NUMW.P3
+204,204,Out-of-pocket health expenditure (% of private expenditure on health),SH.XPD.OOPC.ZS
+205,205,Out-of-pocket health expenditure (% of total expenditure on health),SH.XPD.OOPC.TO.ZS
+206,206,People practicing open defecation (% of population),SH.STA.ODFC.ZS
+207,207,"People practicing open defecation, rural (% of rural population)",SH.STA.ODFC.RU.ZS
+208,208,"People practicing open defecation, urban (% of urban population)",SH.STA.ODFC.UR.ZS
+209,209,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS
+210,216,"Population ages 0-14, female",SP.POP.0014.FE.IN
+211,217,"Population ages 0-14, male",SP.POP.0014.MA.IN
+212,210,"Population ages 00-04, female (% of female population)",SP.POP.0004.FE.5Y
+213,211,"Population ages 00-04, male (% of male population)",SP.POP.0004.MA.5Y
+214,212,Population ages 00-14 (% of total),SP.POP.0014.TO.ZS
+215,213,"Population ages 00-14, female (% of total)",SP.POP.0014.FE.ZS
+216,214,"Population ages 00-14, male (% of total)",SP.POP.0014.MA.ZS
+217,215,"Population ages 00-14, total",SP.POP.0014.TO
+218,218,"Population ages 05-09, female (% of female population)",SP.POP.0509.FE.5Y
+219,219,"Population ages 05-09, male (% of male population)",SP.POP.0509.MA.5Y
+220,220,"Population ages 10-14, female (% of female population)",SP.POP.1014.FE.5Y
+221,221,"Population ages 15-19, female (% of female population)",SP.POP.1519.FE.5Y
+222,222,"Population ages 15-19, male (% of male population)",SP.POP.1519.MA.5Y
+223,223,Population ages 15-64 (% of total),SP.POP.1564.TO.ZS
+224,224,"Population ages 15-64, female",SP.POP.1564.FE.IN
+225,225,"Population ages 15-64, female (% of total)",SP.POP.1564.FE.ZS
+226,226,"Population ages 15-64, male",SP.POP.1564.MA.IN
+227,227,"Population ages 15-64, male (% of total)",SP.POP.1564.MA.ZS
+228,228,"Population ages 15-64, total",SP.POP.1564.TO
+229,229,"Population ages 20-24, female (% of female population)",SP.POP.2024.FE.5Y
+230,230,"Population ages 20-24, male (% of male population)",SP.POP.2024.MA.5Y
+231,231,"Population ages 25-29, female (% of female population)",SP.POP.2529.FE.5Y
+232,232,"Population ages 25-29, male (% of male population)",SP.POP.2529.MA.5Y
+233,233,"Population ages 30-34, female (% of female population)",SP.POP.3034.FE.5Y
+234,234,"Population ages 30-34, male (% of male population)",SP.POP.3034.MA.5Y
+235,235,"Population ages 35-39, female (% of female population)",SP.POP.3539.FE.5Y
+236,236,"Population ages 35-39, male (% of male population)",SP.POP.3539.MA.5Y
+237,237,"Population ages 40-44, female (% of female population)",SP.POP.4044.FE.5Y
+238,238,"Population ages 40-44, male (% of male population)",SP.POP.4044.MA.5Y
+239,239,"Population ages 45-49, female (% of female population)",SP.POP.4549.FE.5Y
+240,240,"Population ages 45-49, male (% of male population)",SP.POP.4549.MA.5Y
+241,241,"Population ages 50-54, female (% of female population)",SP.POP.5054.FE.5Y
+242,242,"Population ages 50-54, male (% of male population)",SP.POP.5054.MA.5Y
+243,243,"Population ages 55-59, female (% of female population)",SP.POP.5559.FE.5Y
+244,244,"Population ages 55-59, male (% of male population)",SP.POP.5559.MA.5Y
+245,245,"Population ages 60-64, female (% of female population)",SP.POP.6064.FE.5Y
+246,246,"Population ages 60-64, male (% of male population)",SP.POP.6064.MA.5Y
+247,247,Population ages 65 and above (% of total),SP.POP.65UP.TO.ZS
+248,248,"Population ages 65 and above, female",SP.POP.65UP.FE.IN
+249,249,"Population ages 65 and above, female (% of total)",SP.POP.65UP.FE.ZS
+250,250,"Population ages 65 and above, male",SP.POP.65UP.MA.IN
+251,251,"Population ages 65 and above, male (% of total)",SP.POP.65UP.MA.ZS
+252,252,"Population ages 65 and above, total",SP.POP.65UP.TO
+253,253,"Population ages 65-69, female (% of female population)",SP.POP.6569.FE.5Y
+254,254,"Population ages 65-69, male (% of male population)",SP.POP.6569.MA.5Y
+255,255,"Population ages 70-74, female (% of female population)",SP.POP.7074.FE.5Y
+256,256,"Population ages 70-74, male (% of male population)",SP.POP.7074.MA.5Y
+257,257,"Population ages 75-79, female (% of female population)",SP.POP.7579.FE.5Y
+258,258,"Population ages 75-79, male (% of male population)",SP.POP.7579.MA.5Y
+259,259,"Population ages 80 and older, female (% of female population)",SP.POP.80UP.FE.5Y
+260,260,"Population ages 80 and older, male (% of male population)",SP.POP.80UP.MA.5Y
+261,261,"Population ages10-14, male (% of male population)",SP.POP.1014.MA.5Y
+262,262,Population growth (annual %),SP.POP.GROW
+263,263,"Population, female",SP.POP.TOTL.FE.IN
+264,264,"Population, female (% of total)",SP.POP.TOTL.FE.ZS
+265,265,"Population, male",SP.POP.TOTL.MA.IN
+266,266,"Population, male (% of total)",SP.POP.TOTL.MA.ZS
+267,267,"Population, total",SP.POP.TOTL
+268,268,Postnatal care coverage (% mothers),SH.STA.PNVC.ZS
+269,269,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC
+270,270,Pregnant women receiving prenatal care (%),SH.STA.ANVC.ZS
+271,271,Pregnant women receiving prenatal care of at least four visits (% of pregnant women),SH.STA.ANV4.ZS
+272,276,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS
+273,277,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS
+274,278,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS
+275,272,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS
+276,273,Prevalence of anemia among non-pregnant women (% of women ages 15-49),SH.ANM.NPRG.ZS
+277,274,Prevalence of anemia among pregnant women (%),SH.PRG.ANEM
+278,275,Prevalence of anemia among women of reproductive age (% of women ages 15-49),SH.ANM.ALLW.ZS
+279,279,Prevalence of overweight (% of adults),SH.STA.OW15.ZS
+280,280,Prevalence of overweight (% of children under 5),SH.STA.OWGH.ZS
+281,281,"Prevalence of overweight, female (% of children under 5)",SH.STA.OWGH.FE.ZS
+282,282,"Prevalence of overweight, female (% of female adults)",SH.STA.OW15.FE.ZS
+283,283,"Prevalence of overweight, male (% of children under 5)",SH.STA.OWGH.MA.ZS
+284,284,"Prevalence of overweight, male (% of male adults)",SH.STA.OW15.MA.ZS
+285,285,"Prevalence of severe wasting, weight for height (% of children under 5)",SH.SVR.WAST.ZS
+286,286,"Prevalence of severe wasting, weight for height, female (% of children under 5)",SH.SVR.WAST.FE.ZS
+287,287,"Prevalence of severe wasting, weight for height, male (% of children under 5)",SH.SVR.WAST.MA.ZS
+288,288,Prevalence of syphilis (% of women attending antenatal care),SH.PRG.SYPH.ZS
+289,289,"Prevalence of tuberculosis (per 100,000 population)",SH.TBS.PREV
+290,290,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS
+291,291,Prevalence of wasting (% of children under 5),SH.STA.WAST.ZS
+292,292,"Prevalence of wasting, female (% of children under 5)",SH.STA.WAST.FE.ZS
+293,293,"Prevalence of wasting, male (% of children under 5)",SH.STA.WAST.MA.ZS
+294,294,"Primary completion rate, female (% of relevant age group)",SE.PRM.CMPT.FE.ZS
+295,295,"Primary completion rate, male (% of relevant age group)",SE.PRM.CMPT.MA.ZS
+296,296,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS
+297,297,"Public spending on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS
+298,298,Ratio of school attendance of orphans to school attendance of non-orphans ages 10-14,SE.ENR.ORPH
+299,299,Ratio of young literate females to males (% ages 15-24),SE.ADT.1524.LT.FM.ZS
+300,300,Risk of catastrophic expenditure for surgical care (% of people at risk),SH.SGR.CRSK.ZS
+301,301,Risk of impoverishing expenditure for surgical care (% of people at risk),SH.SGR.IRSK.ZS
+302,302,Rural population,SP.RUR.TOTL
+303,303,Rural population (% of total population),SP.RUR.TOTL.ZS
+304,304,Rural population growth (annual %),SP.RUR.TOTL.ZG
+305,305,Rural poverty headcount ratio at national poverty lines (% of rural population),SI.POV.RUHC
+306,306,"School enrollment, primary (% gross)",SE.PRM.ENRR
+307,307,"School enrollment, primary (% net)",SE.PRM.NENR
+308,308,"School enrollment, primary, female (% gross)",SE.PRM.ENRR.FE
+309,309,"School enrollment, primary, female (% net)",SE.PRM.NENR.FE
+310,310,"School enrollment, primary, male (% gross)",SE.PRM.ENRR.MA
+311,311,"School enrollment, primary, male (% net)",SE.PRM.NENR.MA
+312,312,"School enrollment, secondary (% gross)",SE.SEC.ENRR
+313,313,"School enrollment, secondary (% net)",SE.SEC.NENR
+314,314,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE
+315,315,"School enrollment, secondary, female (% net)",SE.SEC.NENR.FE
+316,316,"School enrollment, secondary, male (% gross)",SE.SEC.ENRR.MA
+317,317,"School enrollment, secondary, male (% net)",SE.SEC.NENR.MA
+318,318,"School enrollment, tertiary (% gross)",SE.TER.ENRR
+319,319,"School enrollment, tertiary, female (% gross)",SE.TER.ENRR.FE
+320,320,Sex ratio at birth (male births per female births),SP.POP.BRTH.MF
+321,321,Share of women employed in the nonagricultural sector (% of total nonagricultural employment),SL.EMP.INSV.FE.ZS
+322,322,"Smoking prevalence, females (% of adults)",SH.PRV.SMOK.FE
+323,323,"Smoking prevalence, males (% of adults)",SH.PRV.SMOK.MA
+324,324,"Specialist surgical workforce (per 100,000 population)",SH.MED.SAOP.P5
+325,325,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS
+326,326,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS
+327,327,Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant),SP.MTR.1519.ZS
+328,328,Tuberculosis case detection rate (all forms),SH.TBS.DTEC.ZS
+329,329,"Tuberculosis death rate (per 100,000 people)",SH.TBS.MORT
+330,330,Tuberculosis treatment success rate (% of new cases),SH.TBS.CURE.ZS
+331,331,"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS
+332,332,"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS
+333,333,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS
+334,334,Unmet need for contraception (% of married women ages 15-49),SP.UWT.TFRT
+335,335,Urban population,SP.URB.TOTL
+336,336,Urban population (% of total),SP.URB.TOTL.IN.ZS
+337,337,Urban population growth (annual %),SP.URB.GROW
+338,338,Urban poverty headcount ratio at national poverty lines (% of urban population),SI.POV.URHC
+339,341,"Use of Intermittent Preventive Treatment of malaria, 2+ doses of SP/Fansidar (% of pregnant women)",SH.MLR.SPF2.ZS
+340,339,Use of any antimalarial drug (% of pregnant women),SH.MLR.PREG.ZS
+341,340,Use of insecticide-treated bed nets (% of under-5 population),SH.MLR.NETS.ZS
+342,342,Vitamin A supplementation coverage rate (% of children ages 6-59 months),SN.ITK.VITA.ZS
+343,343,Wanted fertility rate (births per woman),SP.DYN.WFRT
+344,344,Women's share of population ages 15+ living with HIV (%),SH.DYN.AIDS.FE.ZS
