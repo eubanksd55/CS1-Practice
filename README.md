@@ -13,10 +13,12 @@ HealthStats provides key health, nutrition and population statistics gathered fr
 This dataset includes 345 indicators, such as immunization rates, malnutrition prevalence, and vitamin A supplementation rates across 263 countries around the world. Data was collected on a yearly basis from 1960-2016.
 
 
+There are a number of other analysis reports on this dataset available on Kaggle [here](https://www.kaggle.com/theworldbank/health-nutrition-and-population-statistics/notebooks).  Inspiration for this report was often obtained from those examples, and is credited below.
+
 
 ## Summary
 
-The analysis approach for this report was exploratory with no hypotheses in mind prior to examining the data.  The data was loaded in raw form in Pandas and reviewed, then plotted with Matplotlib to visualize and identify any potentially interesting trends or comparisons.
+The analysis approach for this report was exploratory with no hypotheses in mind prior to examining the data.  The data was loaded in raw form using Python/Pandas, reviewed, and then plotted with Matplotlib to visualize and identify any potentially interesting trends or comparisons.
 
 An initial review of the dataset revealed the following attributes:
 
@@ -29,3 +31,5 @@ An initial review of the dataset revealed the following attributes:
 Quite a massive data set, but missing a lot of information (empty cells) as well.  Using Pandas we slice the data down to get a sense of the features available:
 
 ### Indicators
+The 345 unique indicators were arranged into a subset of the data:
+
