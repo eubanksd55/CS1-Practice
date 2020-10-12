@@ -33,3 +33,10 @@ Quite a massive data set, but missing a lot of information (empty cells) as well
 ### Indicators
 The 345 unique indicators were arranged into a subset of the data:
 
+![Indicators][https://github.com/eubanksd55/CS1-Practice/blob/main/indicators.png?raw=true]
+
+### Groups
+The 258 unique groups were arranged into a subset of the data:
+
+![Groups][https://github.com/eubanksd55/CS1-Practice/blob/main/groups.png?raw=true]
+
